@@ -32,8 +32,8 @@ Identification de **237 maisons d'édition, 103 librairies, 317 associations et 
 
 Deux colorations du graphe :
 
-https://medialab.github.io/datasprint-genre-et-edition/slides/asso_edition_librairie.html
-https://medialab.github.io/datasprint-genre-et-edition/slides/louvain.html
+* https://medialab.github.io/datasprint-genre-et-edition/slides/asso_edition_librairie.html
+* https://medialab.github.io/datasprint-genre-et-edition/slides/louvain.html
 
 * Identification de 2 clusters avec la méthode de Louvain : Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
 

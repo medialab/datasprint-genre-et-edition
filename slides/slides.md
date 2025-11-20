@@ -27,7 +27,7 @@ Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le
 ---
 
 ## Questionnements
-* Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou générales avec une collection genre)
+* Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou généralistes avec une collection genre)
 * Répartition du corpus entre maisons d'édition féminisme et queer
 
 ---
@@ -48,23 +48,16 @@ Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le
 
 Identification de **237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
 
-* Identification de 2 clusters avec la méthode de Louvain :
+* Identification de 2 clusters avec la méthode de Louvain : Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
 
-  * Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
-
-  * Un troisième pôle mêle des maisons d'éditions et des librairies
-
-  * Identification de 2 maisons d'édition proches de la sphère associative queer : Exemplaire Editions et Pas pour du beurre
-
-  * Quelques pôles associatifs particulièrement cités :
-
+* Quelques pôles associatifs particulièrement cités :
     * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert, CFCV (Collectif féministe contre le viol) (1er pôle)
-
     * Planning familial, SOS Homophobie, Aides, Acceptess-T (2ème pôle)
 
+* Un troisième pôle mêle des maisons d'éditions et des librairies
+* Identification de 2 maisons d'édition proches de la sphère associative queer : Exemplaire Editions et Pas pour du beurre
 * Des liens selon les répartitions géographiques (3 villes particulièrement représentées : Paris, Marseille, Lyon)
-
-* Quelques acteurs qui font le lien entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer, Science Direct)
+* Quelques acteurs qui semblent faire l'interface entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer, Science Direct)
 
 ---
 
@@ -83,7 +76,7 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 
 ---
 
-## Quelques premières pistes bibliographiques
+## Quelques pistes bibliographiques
 
 ALBENGA Viviane, BACHMANN Laurence, « Appropriations des idées féministes et transformation de soi par la lecture », Politix, vol. 109, no. 1, 2015, pp. 69-89.
 

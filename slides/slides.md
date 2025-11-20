@@ -18,6 +18,18 @@ Ajout d'une liste de maisons d'éditions fournie par Pauline Augé, complétée 
 
 Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associations (certaines urls renvoient en réalité à la même entité)
 
+--
+## Outils mobilisés
+
+<https://medialab.github.io/nansi/> pour appliquer l'algorithme de Louvain
+
+<https://github.com/medialab/ipysigma> pour comparer l'annotation manuelle et les communautés détectées automatiquement avec Louvain
+
+-- 
+## Questionnements
+Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou générales avec une collection genre)
+Répartition du corpus entre maisons d'édition féminisme et queer
+
 ---
 
 ## Slide 4 (avec sous-slides)
@@ -31,7 +43,8 @@ Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associa
 ### Sous-slide 4.2
 
 --
-## Premières impressions 
+## Premières impressions & résultats
+Identification de 237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres
 
 
 

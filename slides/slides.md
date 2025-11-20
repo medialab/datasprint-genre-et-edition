@@ -19,11 +19,13 @@ Objectif : agrandir le fonds documentaire "Histoire des femmes et études sur le
 * Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associations (certaines urls renvoient en réalité à la même entité)
 
 ---
+
 ## Outils mobilisés
 * <https://medialab.github.io/nansi/> pour appliquer l'algorithme de Louvain
 * <https://github.com/medialab/ipysigma> pour comparer l'annotation manuelle et les communautés détectées automatiquement avec Louvain
 
 ---
+
 ## Questionnements
 * Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou générales avec une collection genre)
 * Répartition du corpus entre maisons d'édition féminisme et queer
@@ -41,7 +43,9 @@ Objectif : agrandir le fonds documentaire "Histoire des femmes et études sur le
 ### Sous-slide 4.2
 
 ---
+
 ## Premières impressions & résultats
+
 Identification de **237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
 
 * Identification de 2 clusters avec la méthode de Louvain :
@@ -62,6 +66,8 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 
 * Quelques acteurs qui font le lien entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer)
 
+---
+
 ## Suites possibles pour élargir le champ d'étude
 
 * Le rôle des auteur·ices / réseaux sociaux / festivals comme relais auprès des maisons d'éditions d'une part et des associations d'autres
@@ -76,6 +82,7 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 
 
 ---
+
 ## Quelques premières pistes bibliographiques
 
 ALBENGA Viviane, BACHMANN Laurence, « Appropriations des idées féministes et transformation de soi par la lecture », Politix, vol. 109, no. 1, 2015, pp. 69-89.
@@ -107,4 +114,3 @@ MURRAY Simone Elizabeth, *Feminist print cultures in the digital era. Feminist I
 RAYNER Samantha J. *Women Booksellers in the Twentieth Century: Hidden Behind the Bookshelves*. Cambridge: Cambridge University Press, 2025. Print. Elements in Publishing and Book Culture.
 
 RILEY Catherine. *The Virago Story: Assessing the Impact of a Feminist Publishing Phenomenon*. 1st ed., vol. 23, Berghahn Books, 2018. *JSTOR*, <https://doi.org/10.2307/j.ctvw04cf2>. Accessed 20 Nov. 2025.
-

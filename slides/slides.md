@@ -25,7 +25,7 @@ Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associa
 --
 ### Sous-slide 4.1
 
- <iframe src="https://bmaz.github.io/slides/genre-et-edition/asso_edition_librairie.html" width="100%" height="450px" style="border: none"></iframe>
+ <iframe src="https://medialab/datasprint-genre-et-edition/slides/asso_edition_librairie.html" width="100%" height="450px" style="border: none"></iframe>
 
 --
 ### Sous-slide 4.2

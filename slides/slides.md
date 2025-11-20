@@ -39,8 +39,8 @@ Deux colorations du graphe :
 
 --
 * Quelques pôles associatifs particulièrement cités :
-    * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert, CFCV (Collectif féministe contre le viol) (1er pôle)
-    * Planning familial, SOS Homophobie, Aides, Acceptess-T (2ème pôle)
+    * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert, CFCV (Collectif féministe contre le viol), Planning familial (1er pôle)
+    * SOS Homophobie, Aides, Acceptess-T (2ème pôle)
 
 --
 * Un troisième pôle mêle des maisons d'éditions et des librairies

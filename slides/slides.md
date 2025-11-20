@@ -6,7 +6,7 @@
 
 **Quels liens entre les associations féministes et/ou queer et les maisons d'édition et librairies engagées dans la diffusion des ouvrages sur le genre ?**
 
-Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le genre" de l'Humathèque
+Objectif : Agrandir le fond documentaire "Histoire des femmes et études sur le genre" de l'Humathèque
 
 ---
 
@@ -26,7 +26,7 @@ Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le
 
 ## Premières impressions & résultats
 
-Identification de **237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
+Identification de **237 maisons d'édition, 103 librairies, 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
 
 --
 * Identification de 2 clusters avec la méthode de Louvain : Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
@@ -44,6 +44,12 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 
 ---
 
+## Possibles usages pour ce corpus
+* Identification de maisons d'édition pour enrichir le fond documentaire
+* Retracer les relais associatifs de livres "anti-genre"
+
+---
+
 ## Suites possibles pour élargir le champ d'étude
 
 * Le rôle des auteur·ices / réseaux sociaux / festivals comme relais auprès des maisons d'éditions d'une part et des associations d'autres
@@ -56,9 +62,3 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 * Répartition géographique des librairies & maisons d'éditions / Evolution temporelle (fermeture de librairies, création de nouvelles maisons d'éditions ou associations) (prolongement : Hage, 2008)
 
 * Réseaux transnationaux / relais de livres traduits / collections anglophones ou autre
-
-
----
-
-## Quelques pistes bibliographiques
-

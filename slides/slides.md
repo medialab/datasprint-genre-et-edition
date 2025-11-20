@@ -12,23 +12,21 @@ Objectif : agrandir le fonds documentaire "Histoire des femmes et études sur le
 
 ## Corpus initial
 
-Corpus initial : liste d'acteurs liés à la thématique du **genre**, répartis dans les catégories suivantes : **administration, ESR, media, association, individu, lieu culturel, influenceur·euse** et dans les thématiques suivantes : **santé, recherche, politique, culture, religion, droit, info générale, lifestyle, événement, sport**. Ce corpus inclut des acteurs francophones (France, Belgique, Canada, Suisse).
+* Corpus initial : liste d'acteurs liés à la thématique du **genre**, répartis dans les catégories suivantes : **administration, ESR, media, association, individu, lieu culturel, influenceur·euse** et dans les thématiques suivantes : **santé, recherche, politique, culture, religion, droit, info générale, lifestyle, événement, sport**. Ce corpus inclut des acteurs francophones (France, Belgique, Canada, Suisse).
 
-Ajout d'une liste de maisons d'éditions fournie par Pauline Augé, complétée par une liste de librairies spécialisées dans le féminisme et les thématiques de genre et la liste des associations issues du premier corpus
+* Corpus Ajout d'une liste de maisons d'éditions fournie par Pauline Augé, complétée par une liste de librairies spécialisées dans le féminisme et les thématiques de genre et la liste des associations issues du premier corpus
 
-Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associations (certaines urls renvoient en réalité à la même entité)
+* Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associations (certaines urls renvoient en réalité à la même entité)
 
---
+---
 ## Outils mobilisés
+* <https://medialab.github.io/nansi/> pour appliquer l'algorithme de Louvain
+* <https://github.com/medialab/ipysigma> pour comparer l'annotation manuelle et les communautés détectées automatiquement avec Louvain
 
-<https://medialab.github.io/nansi/> pour appliquer l'algorithme de Louvain
-
-<https://github.com/medialab/ipysigma> pour comparer l'annotation manuelle et les communautés détectées automatiquement avec Louvain
-
--- 
+---
 ## Questionnements
-Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou générales avec une collection genre)
-Répartition du corpus entre maisons d'édition féminisme et queer
+* Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou générales avec une collection genre)
+* Répartition du corpus entre maisons d'édition féminisme et queer
 
 ---
 
@@ -42,13 +40,42 @@ Répartition du corpus entre maisons d'édition féminisme et queer
 --
 ### Sous-slide 4.2
 
---
+---
 ## Premières impressions & résultats
-Identification de 237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres
+Identification de **237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
+
+* Identification de 2 clusters avec la méthode de Louvain :
+
+  * Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
+
+  * Un troisième pôle mêle des maisons d'éditions et des librairies
+
+  * Identification de 2 maisons d'édition proches de la sphère associative queer : Exemplaire Editions et Pas pour du beurre
+
+  * Quelques pôles associatifs particulièrement cités :
+
+    * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert (1er pôle)
+
+    * Planning familial, SOS Homophobie, Aides, Acceptess-T (2ème pôle)
+
+* Des liens selon les répartitions géographiques (3 villes particulièrement représentées : Paris, Marseille, Lyon)
+
+* Quelques acteurs qui font le lien entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer)
+
+## Suites possibles pour élargir le champ d'étude
+
+* Le rôle des auteur·ices / réseaux sociaux / festivals comme relais auprès des maisons d'éditions d'une part et des associations d'autres
+
+* La place des livres non édités et diffusés en ligne / zines & magazines / La part des initiatives d'auto éditions / éditions de livres par financement participatif
+
+* Ajouter les clubs de lecture féministes et listes de recommandations de livres sur le genre (blogs)
+
+* Répartition géographique des librairies & maisons d'éditions / Evolution temporelle (fermeture de librairies, création de nouvelles maisons d'éditions ou associations) (prolongement : Hage, 2008)
+
+* Réseaux transnationaux / relais de livres traduits / collections anglophones ou autre
 
 
-
---
+---
 ## Quelques premières pistes bibliographiques
 
 ALBENGA Viviane, BACHMANN Laurence, « Appropriations des idées féministes et transformation de soi par la lecture », Politix, vol. 109, no. 1, 2015, pp. 69-89.

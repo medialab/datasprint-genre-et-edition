@@ -5,6 +5,11 @@
 ## Slide 2
 Contenu **Markdown** !
 
+**Quels liens entre les associations féministes et/ou queer et les maisons d'édition et librairies engagées dans la diffusion des ouvrages sur le genre ?**
+Corpus initial : liste d'acteurs liés à la thématique du **genre**, répartis dans les catégories suivantes : **administration, ESR, media, association, individu, lieu culturel, influenceur** et dans les thématiques suivantes : **santé, recherche, politique, culture, religion, droit, info générale, lifestyle, événement, sport**. Ce corpus inclut des acteurs francophones (France, Belgique, Canada, Suisse).
+
+
+
 ---
 
 ## Slide 3 (avec sous-slides)

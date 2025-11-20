@@ -24,12 +24,6 @@ Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le
 
 ---
 
-## Questionnements
-* Comment délimiter les acteur·ices ? (ex : maisons d'éditions/librairies spécialisées ou généralistes avec une collection genre)
-* Répartition du corpus entre maisons d'édition féminisme et queer
-
----
-
 ## Premières impressions & résultats
 
 Identification de **237 maisons d'édition ; 103 librairies ; 317 associations et 4 diffuseurs de podcasts qui éditent des livres**

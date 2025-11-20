@@ -58,7 +58,7 @@ Deux colorations du graphe :
 
 ## Suites possibles pour élargir le champ d'étude
 
-* Le rôle des auteur·ices / réseaux sociaux / festivals comme relais auprès des maisons d'éditions d'une part et des associations d'autres
+* Le rôle des auteur·ices / réseaux sociaux / festivals comme relais auprès des maisons d'éditions d'une part et des associations d'autre part
 
 * La place des livres non édités et diffusés en ligne / zines & magazines / La part des initiatives d'auto éditions / éditions de livres par financement participatif
 

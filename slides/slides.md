@@ -6,15 +6,15 @@
 
 **Quels liens entre les associations féministes et/ou queer et les maisons d'édition et librairies engagées dans la diffusion des ouvrages sur le genre ?**
 
-Objectif : agrandir le fonds documentaire "Histoire des femmes et études sur le genre" de la Maison des Sciences de l'Homme
+Objectif : Agrandir le fonds documentaire "Histoire des femmes et études sur le genre" de la Maison des Sciences de l'Homme
 
 ---
 
 ## Corpus initial
 
-* Corpus initial : liste d'acteurs liés à la thématique du **genre**, répartis dans les catégories suivantes : **administration, ESR, media, association, individu, lieu culturel, influenceur·euse** et dans les thématiques suivantes : **santé, recherche, politique, culture, religion, droit, info générale, lifestyle, événement, sport**. Ce corpus inclut des acteurs francophones (France, Belgique, Canada, Suisse).
+* Corpus initial : liste d'acteur·ices lié·es à la thématique du **genre**, répartis dans les catégories suivantes : **administration, ESR, media, association, individu, lieu culturel, influenceur·euse** et dans les thématiques suivantes : **santé, recherche, politique, culture, religion, droit, info générale, lifestyle, événement, sport**. Ce corpus inclut des acteurs francophones (France, Belgique, Canada, Suisse).
 
-* Corpus Ajout d'une liste de maisons d'éditions fournie par Pauline Augé, complétée par une liste de librairies spécialisées dans le féminisme et les thématiques de genre et la liste des associations issues du premier corpus
+* Corpus genre et maisons d'éditions : Ajout d'une liste de maisons d'éditions fournie par Pauline Augé, complétée par une liste de librairies spécialisées dans le féminisme et les thématiques de genre et la liste des associations issues du premier corpus
 
 * Entités de départ : 66 maisons d'édition, 16 librairies et 223 urls d'associations (certaines urls renvoient en réalité à la même entité)
 
@@ -58,13 +58,13 @@ Identification de **237 maisons d'édition ; 103 librairies ; 317 associations e
 
   * Quelques pôles associatifs particulièrement cités :
 
-    * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert (1er pôle)
+    * Fondation des femmes, Solidarité femmes, Centre Hubertine Auclert, CFCV (Collectif féministe contre le viol) (1er pôle)
 
     * Planning familial, SOS Homophobie, Aides, Acceptess-T (2ème pôle)
 
 * Des liens selon les répartitions géographiques (3 villes particulièrement représentées : Paris, Marseille, Lyon)
 
-* Quelques acteurs qui font le lien entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer)
+* Quelques acteurs qui font le lien entre 2 pôles : maisons d'édition académiques (OpenEditions, Springer, Science Direct)
 
 ---
 

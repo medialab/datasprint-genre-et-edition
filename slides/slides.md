@@ -2,7 +2,7 @@
 
 ---
 
-## 
+##
 
 **Quels liens entre les associations féministes et/ou queer et les maisons d'édition et librairies engagées dans la diffusion des ouvrages sur le genre ?**
 
@@ -29,6 +29,11 @@ Objectif : Agrandir le fond documentaire "Histoire des femmes et études sur le 
 Identification de **237 maisons d'édition, 103 librairies, 317 associations et 4 diffuseurs de podcasts qui éditent des livres**
 
 --
+
+Deux colorations du graphe :
+[Annotation par type d'acteur](https://medialab.github.io/datasprint-genre-et-edition/slides/asso_edition_librairie.html)
+[Annotation par méthode de Louvain](https://medialab.github.io/datasprint-genre-et-edition/slides/louvain.html)
+
 * Identification de 2 clusters avec la méthode de Louvain : Scindement de la sphère associative en deux aspects : féminisme institutionnel/universaliste vs féminisme intersectionnel/associations queer/LGBTQI
 
 --
